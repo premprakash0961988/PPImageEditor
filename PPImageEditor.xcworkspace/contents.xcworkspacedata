@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:PPScreenGrab"
+      name = "PPScreenGrab">
+      <FileRef
+         location = "group:PPScreenGrab.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:PPScreenGrabTests"
+         name = "PPScreenGrabTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:PPScreenGrabTests.m">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>

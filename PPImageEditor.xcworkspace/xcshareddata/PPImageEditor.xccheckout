@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0EDFEFFB-C5A9-4B75-8C69-6BDD0B9B120C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PPImageEditor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF46ED1DB656934C369482CFF3FAFBC2483F631F</key>
+		<string>https://github.com/premprakash0961988/PPImageEditor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PPImageEditor.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF46ED1DB656934C369482CFF3FAFBC2483F631F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/premprakash0961988/PPImageEditor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF46ED1DB656934C369482CFF3FAFBC2483F631F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF46ED1DB656934C369482CFF3FAFBC2483F631F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PPImageEditor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
